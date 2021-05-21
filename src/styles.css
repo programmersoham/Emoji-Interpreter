@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 2rem;
+}
+
+input {
+  padding: 1rem;
+  font-size: large;
+}
+
+body {
+  background-color: rgb(23, 198, 241);
+  color: white;
+}
+h1 {
+  padding: 0.5rem;
+  bottom: 2rem;
+  top: 2rem;
+  font-size: 3rem;
+}
+#outputDiv {
+  font-size: 1.2rem;
+  color: #4a2178;
+  padding: 1rem;
+}
